@@ -37,11 +37,11 @@
 * 請在 `Console` 輸入下方指令
   * 從 GitHub Clone 專案
   ```
-  git clone https://github.com/ArcherHuang/AC.git
+  git clone https://github.com/ArcherHuang/URL-Shortener.git
   ```
   * 切換路徑到專案資料夾
   ```
-  cd ./AC/Third/URL-Shortener
+  cd ./URL-Shortener
   ``` 
   * 安裝相關套件
   ``` 
